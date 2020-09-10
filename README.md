@@ -1,3 +1,7 @@
-This is my first npm package!
+### 使用说明
 
-It is just for learning.
+`npm install @chenwei123/tools`
+
+`import {maxItemOfArr} from '@chenwei123/tools';`
+
+`maxItemOfArr()`
