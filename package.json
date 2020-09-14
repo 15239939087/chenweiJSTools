@@ -1,6 +1,6 @@
 {
-  "name": "@chenwei123/tools",
-  "version": "1.0.01",
+  "name": "chenweitools",
+  "version": "1.0.0",
   "description": "this is my first package",
   "main": "index.js",
   "private": false,
