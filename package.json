@@ -1,6 +1,6 @@
 {
   "name": "chenweitools",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "this is my first package",
   "main": "index.js",
   "private": false,
